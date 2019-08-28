@@ -1,4 +1,9 @@
-# Homework 1 header
+# Simon Mason's First CS193 Homework!
+
+My favorite things about CS193:
+- Relaxed setting where I can learn many useful things
+- Taught by people who did the same thing as me recently
+- It's only twice a week
 
 ## Welcome to GitHub Pages
 
